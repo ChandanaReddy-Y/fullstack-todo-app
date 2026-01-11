@@ -1,0 +1,33 @@
+.container {
+  margin: 50px auto;
+  width: 400px;
+  text-align: center;
+}
+
+input[type="text"] {
+  padding: 6px;
+  width: 70%;
+}
+
+button {
+  margin-left: 5px;
+  padding: 6px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+span {
+  flex: 1;
+  margin-left: 10px;
+}
+
